@@ -1,0 +1,12 @@
+.bluetext{
+    color: blue;
+}
+.contenitore1{
+
+    background-color: rgb(226, 140, 60);
+    height: 250px;
+    width: 225px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: orange;
+}

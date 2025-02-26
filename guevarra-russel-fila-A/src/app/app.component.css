@@ -1,0 +1,13 @@
+.redtext{
+    color: red;
+}
+.contenitore{
+    padding-left: 150px;
+    padding-top: 30px;
+    background-color: rgb(224, 224, 224);
+    width: 400px;
+    height: 400px;
+}
+.test{
+    padding-left: 10px;
+}
